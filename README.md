@@ -10,7 +10,7 @@ Just a quick challenge made for Frontend Mentor.
 
 - [React] - HTML enhanced for web apps!
 - [Next] - React Framework for production level apps.
-- [Styled Components] - A CSS Framework for efficiency.
+- [Styled Components] - A CSS/JS Framework for efficiency.
 
 ## License
 
