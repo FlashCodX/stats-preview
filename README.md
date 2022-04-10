@@ -4,7 +4,7 @@
 
 Just a quick challenge made for Frontend Mentor.
 
-> Check it out: [https://rating-app-eight.vercel.app/](https://rating-app-eight.vercel.app/)
+> Check it out: [https://stats-preview-psi.vercel.app/](https://stats-preview-psi.vercel.app/)
 
 ## Tech
 
