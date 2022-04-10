@@ -16,7 +16,7 @@ import {
   MoreInfo,
   Overlay,
   Pharagraph,
-} from './indexStyles'
+} from '../styles/indexStyles'
 
 const Home: NextPage = () => {
   return (
